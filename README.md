@@ -1,4 +1,4 @@
-# Java-TicTacToe-GUI  
+# Tic-Tac-Toe Game 
 
 A **Java Swing-based Tic-Tac-Toe game** with an interactive graphical interface and a built-in **computer AI opponent**. This project provides a fun, easy-to-use desktop application where a human player competes against a simple yet smart AI that tries to win or block strategically.  
 
