@@ -4,6 +4,11 @@ A **Java Swing-based Tic-Tac-Toe game** with an interactive graphical interface 
 
 ---
 
+## Preview
+![Tic Tac Toe Preview](image/TicTacToe.png)
+
+---
+
 ## Overview  
 
 This desktop game recreates the classic **Tic-Tac-Toe (Noughts & Crosses)** experience in a sleek GUI.  
